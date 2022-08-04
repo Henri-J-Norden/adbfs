@@ -8,7 +8,7 @@ import (
 
 	"github.com/hanwen/go-fuse/fuse"
 	"github.com/hanwen/go-fuse/fuse/nodefs"
-	"github.com/zach-klippenstein/goadb/util"
+	"github.com/zach-klippenstein/goadb"
 )
 
 const (

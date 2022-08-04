@@ -6,7 +6,6 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/zach-klippenstein/goadb"
-	"github.com/zach-klippenstein/goadb/util"
 )
 
 func TestNewCachedDirEntries(t *testing.T) {

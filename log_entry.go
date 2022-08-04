@@ -8,7 +8,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 	"github.com/zach-klippenstein/adbfs/internal/cli"
-	"github.com/zach-klippenstein/goadb/util"
+	"github.com/zach-klippenstein/goadb"
 	"golang.org/x/net/trace"
 )
 

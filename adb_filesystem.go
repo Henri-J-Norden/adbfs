@@ -18,7 +18,6 @@ import (
 	"github.com/hanwen/go-fuse/fuse/pathfs"
 	"github.com/zach-klippenstein/adbfs/internal/cli"
 	"github.com/zach-klippenstein/goadb"
-	"github.com/zach-klippenstein/goadb/util"
 )
 
 // 64 symlinks ought to be deep enough for anybody.

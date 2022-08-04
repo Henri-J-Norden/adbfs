@@ -6,7 +6,7 @@ import (
 	"syscall"
 
 	"github.com/hanwen/go-fuse/fuse"
-	"github.com/zach-klippenstein/goadb/util"
+	"github.com/zach-klippenstein/goadb"
 )
 
 const OK = syscall.Errno(0)

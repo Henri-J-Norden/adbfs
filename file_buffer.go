@@ -9,7 +9,6 @@ import (
 
 	. "github.com/zach-klippenstein/adbfs/internal/util"
 	"github.com/zach-klippenstein/goadb"
-	"github.com/zach-klippenstein/goadb/util"
 )
 
 const DefaultFilePermissions = os.FileMode(0664)

@@ -10,7 +10,6 @@ import (
 	"bytes"
 
 	"github.com/zach-klippenstein/goadb"
-	"github.com/zach-klippenstein/goadb/util"
 )
 
 type delegateDeviceClient struct {

@@ -7,7 +7,6 @@ import (
 	"time"
 
 	"github.com/zach-klippenstein/goadb"
-	"github.com/zach-klippenstein/goadb/util"
 )
 
 type CachingDeviceClient struct {

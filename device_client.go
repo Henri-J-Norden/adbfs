@@ -6,7 +6,6 @@ import (
 	"time"
 
 	"github.com/zach-klippenstein/goadb"
-	"github.com/zach-klippenstein/goadb/util"
 )
 
 // DeviceClient wraps adb.DeviceClient for testing.
