@@ -19,9 +19,9 @@ import (
 	"github.com/hanwen/go-fuse/fuse"
 	"github.com/hanwen/go-fuse/fuse/nodefs"
 	"github.com/hanwen/go-fuse/fuse/pathfs"
-	fs "github.com/zach-klippenstein/adbfs"
-	"github.com/zach-klippenstein/adbfs/internal/cli"
-	. "github.com/zach-klippenstein/adbfs/internal/util"
+	fs "github.com/Henri-J-Norden/adbfs"
+	"github.com/Henri-J-Norden/adbfs/internal/cli"
+	. "github.com/Henri-J-Norden/adbfs/internal/util"
 	"github.com/zach-klippenstein/goadb"
 )
 

@@ -7,7 +7,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	. "github.com/zach-klippenstein/adbfs/internal/util"
+	. "github.com/Henri-J-Norden/adbfs/internal/util"
 	"github.com/zach-klippenstein/goadb"
 )
 

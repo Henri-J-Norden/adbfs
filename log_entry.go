@@ -7,7 +7,7 @@ import (
 	"syscall"
 
 	"github.com/sirupsen/logrus"
-	"github.com/zach-klippenstein/adbfs/internal/cli"
+	"github.com/Henri-J-Norden/adbfs/internal/cli"
 	"github.com/zach-klippenstein/goadb"
 	"golang.org/x/net/trace"
 )

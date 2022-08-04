@@ -8,7 +8,7 @@ import (
 	"github.com/hanwen/go-fuse/fuse/nodefs"
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
-	"github.com/zach-klippenstein/adbfs/internal/cli"
+	"github.com/Henri-J-Norden/adbfs/internal/cli"
 )
 
 func init() {

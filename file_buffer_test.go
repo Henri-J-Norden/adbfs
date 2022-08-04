@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	. "github.com/zach-klippenstein/adbfs/internal/util"
+	. "github.com/Henri-J-Norden/adbfs/internal/util"
 	"github.com/zach-klippenstein/goadb"
 )
 
