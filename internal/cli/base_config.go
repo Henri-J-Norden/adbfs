@@ -7,6 +7,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 	"gopkg.in/alecthomas/kingpin.v2"
+	"github.com/zach-klippenstein/goadb"
 )
 
 const (
